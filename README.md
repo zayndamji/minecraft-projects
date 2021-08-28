@@ -1,2 +1,2 @@
-# All of my datapacks and mods
-All of my datapacks and mods in one repository...
+# All of my Minecraft Projects
+All of my datapacks, mods, and maps in one repository.
