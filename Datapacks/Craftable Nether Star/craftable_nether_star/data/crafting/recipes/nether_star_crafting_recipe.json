@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:nether_star",
+        "count": 1
+    }
+}
