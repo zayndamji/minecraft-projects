@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_axe"
+        }
+    ],
+    "result": {
+        "item": "minecraft:netherite_ingot",
+        "count": 3
+    },
+    "group": "Resources from Armor/Tools"
+}

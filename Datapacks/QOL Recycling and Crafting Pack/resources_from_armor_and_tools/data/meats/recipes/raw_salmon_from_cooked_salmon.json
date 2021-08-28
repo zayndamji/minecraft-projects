@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cooked_salmon"
+        }
+    ],
+    "result": {
+        "item": "minecraft:salmon",
+        "count": 1
+    },
+    "group": "Resources from Armor/Tools"
+}

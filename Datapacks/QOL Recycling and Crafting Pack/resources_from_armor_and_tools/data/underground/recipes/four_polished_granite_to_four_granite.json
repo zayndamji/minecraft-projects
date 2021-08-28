@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:polished_granite"
+        },
+        {
+            "item": "minecraft:polished_granite"
+        },
+        {
+            "item": "minecraft:polished_granite"
+        },
+        {
+            "item": "minecraft:polished_granite"
+        }
+    ],
+    "result": {
+        "item": "minecraft:granite",
+        "count": 4
+    },
+    "group": "Resources from Armor/Tools"
+}

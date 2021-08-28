@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cooked_porkchop"
+        }
+    ],
+    "result": {
+        "item": "minecraft:porkchop",
+        "count": 1
+    },
+    "group": "Resources from Armor/Tools"
+}

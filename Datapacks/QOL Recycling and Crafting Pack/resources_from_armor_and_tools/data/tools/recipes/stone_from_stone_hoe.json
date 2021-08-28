@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stone_hoe"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cobblestone",
+        "count": 2
+    },
+    "group": "Resources from Armor/Tools"
+}

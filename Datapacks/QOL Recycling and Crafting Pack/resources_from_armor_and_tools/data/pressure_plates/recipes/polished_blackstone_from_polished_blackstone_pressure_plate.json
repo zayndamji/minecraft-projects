@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:polished_blackstone_pressure_plate"
+        }
+    ],
+    "result": {
+        "item": "minecraft:polished_blackstone",
+        "count": 2
+    },
+    "group": "Resources from Armor/Tools"
+}

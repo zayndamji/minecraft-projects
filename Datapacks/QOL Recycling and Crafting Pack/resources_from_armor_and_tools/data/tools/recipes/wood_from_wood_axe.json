@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wooden_axe"
+        }
+    ],
+    "result": {
+        "item": "minecraft:oak_planks",
+        "count": 3
+    },
+    "group": "Resources from Armor/Tools"
+}

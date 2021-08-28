@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:crimson_pressure_plate"
+        }
+    ],
+    "result": {
+        "item": "minecraft:crimson_planks",
+        "count": 2
+    },
+    "group": "Resources from Armor/Tools"
+}

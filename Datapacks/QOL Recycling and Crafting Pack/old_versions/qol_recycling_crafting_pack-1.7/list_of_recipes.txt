@@ -1,0 +1,134 @@
+Leather from Leather Helmet
+Leather from Leather Chestplate
+Leather from Leather Leggings
+Leather from Leather Boots
+Iron from Iron Helmet
+Iron from Iron Chestplate
+Iron from Iron Leggings
+Iron from Iron Boots
+Gold from Gold Helmet
+Gold from Gold Chestplate
+Gold from Gold Leggings
+Gold from Gold Boots
+Diamond from Diamond Helmet
+Diamond from Diamond Chestplate
+Diamond from Diamond Leggings
+Diamond from Diamond Boots
+Netherite from Netherite Helmet
+Netherite from Netherite Chestplate
+Netherite from Netherite Leggings
+Netherite from Netherite Boots
+Wood from Wooden Pickaxe
+Wood from Wooden Hoe
+Wood from Wooden Shovel
+Wood from Wooden Sword
+Wood from Wooden Axe
+Stone from Stone Pickaxe
+Stone from Stone Hoe
+Stone from Stone Shovel
+Stone from Stone Sword
+Stone from Stone Axe
+Iron from Iron Pickaxe
+Iron from Iron Hoe
+Iron from Iron Shovel
+Iron from Iron Sword
+Iron from Iron Axe
+Gold from Gold Pickaxe
+Gold from Gold Hoe
+Gold from Gold Shovel
+Gold from Gold Sword
+Gold from Gold Axe
+Diamond from Diamond Pickaxe
+Diamond from Diamond Hoe
+Diamond from Diamond Shovel
+Diamond from Diamond Sword
+Diamond from Diamond Axe
+Netherite from Netherite Pickaxe
+Netherite from Netherite Hoe
+Netherite from Netherite Shovel
+Netherite from Netherite Sword
+Netherite from Netherite Axe
+Diamonds from Diamond Horse Armor
+Gold from Gold Horse Armor
+Iron from Iron Horse Armor
+Leather from Leather Horse Armor
+Acacia Planks from Acacia Boat
+Dark Oak Planks from Dark Oak Boat
+Oak Planks from Oak Boat
+Jungle Planks from Jungle Boat
+Spruce Planks from Spruce Boat
+Birch Planks from Birch Boat
+Oak Planks from Oak Button
+Dark Oak Planks from Dark Oak Button
+Birch Planks from Birch Button
+Spruce Planks from Spruce Button
+Jungle Planks from Jungle Button
+Warped Planks from Warped Button
+Crimson Planks from Crimson Button
+Acacia Planks from Acacia Button
+Oak Planks from Oak Trapdoor
+Dark Oak Planks from Dark Oak Trapdoor
+Birch Planks from Birch Trapdoor
+Spruce Planks from Spruce Trapdoor
+Jungle Planks from Jungle Trapdoor
+Warped Planks from Warped Trapdoor
+Crimson Planks from Crimson Trapdoor
+Acacia Planks from Acacia Trapdoor
+Iron from Iron Trapdoor
+Stone from Stone Pressure Plate
+Oak Planks from Oak Pressure Plate
+Spruce Planks from Spruce Pressure Plate
+Birch Planks from Birch Pressure Plate
+Dark Oak Planks from Dark Oak Pressure Plate
+Jungle Planks from Jungle Pressure Plate
+Acacia Planks from Acacia Pressure Plate
+Gold from Gold (Light Weighted) Pressure Plate
+Iron from Iron (Heavy Weighted) Pressure Plate
+Warped Planks from Warped Pressure Plate
+Crimson Planks from Crimson Pressure Plate
+Polished Blackstone from Polished Blackstone Pressure Plate
+Oak Planks from Oak Door
+Dark Oak Planks from Dark Oak Door
+Birch Planks from Birch Door
+Spruce Planks from Spruce Door
+Jungle Planks from Jungle Door
+Warped Planks from Warped Door
+Crimson Planks from Crimson Door
+Acacia Planks from Acacia Door
+Iron from Iron Door
+Three Bones to Bone Block
+Three Bone Meal to Bone
+Wheat from Bread
+Three Bread to Hay Bale
+Gold from Golden Apples
+Gold Blocks from Enchanted Golden Apples
+Ench. Golden Apple Craft
+Raw Beef from Steak
+Raw Chicken from Cooked Chicken
+Raw Pork from Cooked Pork
+Raw Rabbit from Cooked Rabbit
+Raw Cod from Cooked Cod
+Raw Salmon from Cooked Salmon
+Sugar from Sugar Cane
+Netherite Ingot from Lodestone
+Two Blaze Powder to Blaze Rod
+Ender Pearl from Eye of Ender
+Leather from Books
+Leather from Bookshelves
+Leather from Written Books
+Leather from Writable Books
+Leather from Enchanted Books
+Emerald from Emerald Ore
+Quartz from Nether Quartz Ore
+Redstone from Redstone Ore
+Lapis from Lapis Ore
+Coal from Coal Ore
+Gold from Gold Ore
+Diamond from Diamond Ore
+Iron from Iron Ore
+Gold from Nether Gold Ore
+Netherite Scraps from Ancient Debris
+Four Nether Quartz from Quartz Block
+Four Clay from Clay Block
+Four Bricks from Brick Block
+Four Nether Bricks from Nether Brick Block

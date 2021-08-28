@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:polished_diorite"
+        },
+        {
+            "item": "minecraft:polished_diorite"
+        },
+        {
+            "item": "minecraft:polished_diorite"
+        },
+        {
+            "item": "minecraft:polished_diorite"
+        }
+    ],
+    "result": {
+        "item": "minecraft:diorite",
+        "count": 4
+    },
+    "group": "Resources from Armor/Tools"
+}
