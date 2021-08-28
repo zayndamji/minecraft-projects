@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honey_block"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honeycomb_block"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "item": "minecraft:honeycomb_block"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honey_block"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "minecraft:bee_spawn_egg",
+        "count": 64
+    }
+}
