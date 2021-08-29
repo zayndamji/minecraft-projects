@@ -1,0 +1,1 @@
+execute as @s run setblock ~ ~ ~1 minecraft:chest[facing=south,type=single,waterlogged=false]{Items:[{Count:64b,Slot:4b,id:"minecraft:firework_rocket"},{Count:64b,Slot:12b,id:"minecraft:firework_rocket"},{Count:1b,Slot:13b,id:"minecraft:elytra",tag:{Damage:0}},{Count:64b,Slot:14b,id:"minecraft:firework_rocket"},{Count:64b,Slot:22b,id:"minecraft:firework_rocket"}]}
