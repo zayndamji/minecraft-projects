@@ -1,7 +1,9 @@
-# More Bone Recipes
-This datapack adds more bone recipes, specified in the README. (Datapack)
+# Knockoff Minecraft
+This datapack adds knockoff recipes. (Datapack)
 
-![three_bone_meal_to_bone](https://user-images.githubusercontent.com/86502397/123581384-a77a3a80-d790-11eb-806e-9ee136d974a5.png)
-![three_bones_to_bone_block](https://user-images.githubusercontent.com/86502397/123581386-a812d100-d790-11eb-8ef3-ce852d7ecae8.png)
+<img width="228" alt="knockoff_gold" src="https://user-images.githubusercontent.com/86502397/131257551-a8020d53-b277-4928-b523-fe0517bafd4f.png">
+<img width="228" alt="knockoff_golden_apple" src="https://user-images.githubusercontent.com/86502397/131257553-8611b13c-b965-41bc-a14c-b15d316e2437.png">
+<img width="227" alt="knockoff_golden_carrot" src="https://user-images.githubusercontent.com/86502397/131257554-1a9c9875-2edb-4d9b-81ce-7f0b04ecf080.png">
+<img width="230" alt="knockoff_netherite" src="https://user-images.githubusercontent.com/86502397/131257555-b32c49c7-a83f-49e4-bc8f-c7561ac11136.png">
 
 I hope you enjoy!
